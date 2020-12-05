@@ -4,5 +4,5 @@
 	height: 100vh;
 	background: url('https://cdn.dribbble.com/users/63485/screenshots/1136567/earth-gif-preloader.gif') no-repeat center center;
 	overflow: visible;
-        z-index: 1;
+        z-index: 999;
 }
