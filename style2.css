@@ -1,0 +1,7 @@
+#loader{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background: #368 url('https://i.pinimg.com/originals/bf/34/61/bf34611d89cb4e9e62fc4997a1d329f2.gif') no-repeat center;
+  z-index: 999;
+}
