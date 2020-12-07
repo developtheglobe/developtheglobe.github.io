@@ -4,4 +4,5 @@
 	height: 100%;
 	background: url('https://lh5.googleusercontent.com/proxy/qNF87JdTPA0VZ10FYE6DhFpUZn_NR-iQX4JE8EuRYZ8ZQkxM5n3Yk-lIhk83Lh48SvGD85jOMUGiKl7KKCiffz7gc6cHkQwsfB1WOhBfTRAzzQnDvZs=s0-d') no-repeat center center;
 	overflow: fixed;
+	z-index:999;
 }
