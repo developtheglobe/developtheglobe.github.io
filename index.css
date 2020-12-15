@@ -1,0 +1,10 @@
+title{
+animation-name:catchy_title
+}
+@keyframes catchy_title{
+0%{text-color:orange}
+25%{text-color:dodgerblue}
+50%{text-color:#ff801}
+75%{text-color:whitesmoke}
+100%{text-color orange}
+}
