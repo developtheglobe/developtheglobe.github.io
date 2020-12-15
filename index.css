@@ -1,6 +1,6 @@
-.title{
+.h1{
 animation-name:catchy_title;
-animation-duration:4s;
+animation-duration:4s
 }
 @keyframes catchy_title{
 0%{text-color:orange;}
